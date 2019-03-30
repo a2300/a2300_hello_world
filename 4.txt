@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "A eto file 4.txt" 
+=======
+"This is file 4.txt, commited 30/03/2019" 
+>>>>>>> testing
