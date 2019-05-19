@@ -1,1 +1,3 @@
 This is sample file which needs to be commited into github
+
+Added copyright informatin
