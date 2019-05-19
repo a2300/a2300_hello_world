@@ -1,1 +1,3 @@
 Thus is myfile from issue2 branch
+And
+This is from branch issue3
