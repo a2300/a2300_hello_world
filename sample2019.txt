@@ -1,2 +1,2 @@
 This is file sample2019.txt
-and this is line from 20.05.2019
+and this is line from none
