@@ -1,1 +1,2 @@
 This simple file from 20190519
+And this is new line
