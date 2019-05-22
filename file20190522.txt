@@ -1,1 +1,5 @@
 This is sample file
+and I add 1st line
+and I add 2nd line
+and I add 3rd line
+and I add 4th file
