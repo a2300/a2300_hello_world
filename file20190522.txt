@@ -1,4 +1,4 @@
-This is sample file from 22.05.2019
+This is sample file
 and I add 1st line
 and I add 2nd line
 and I add 3rd line
