@@ -3,3 +3,4 @@ This is sample file which needs to be commited into github
 (c) Copyright 2019, by a2300
 
 Update file from master
+Hello world from branch issue 07.06.2019
