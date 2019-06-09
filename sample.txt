@@ -4,3 +4,4 @@ This is sample file which needs to be commited into github
 
 Update file from master
 Hello world from branch issue 07.06.2019
+Hello world from master (attempt 1)
