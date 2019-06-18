@@ -10,4 +10,3 @@ Hello world from branch issue 09.06.2019
 Hello world from master (attempt 3)
 Hello world from master (attempt 4)
 Hello world from issue20190609 (attempt 2)
-Hello
