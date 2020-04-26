@@ -1,1 +1,2 @@
 New feature file
+The 2nd line of the file
