@@ -1,2 +1,1 @@
-"master"
-This is new line
+"master" file line was added 30.05.2020
