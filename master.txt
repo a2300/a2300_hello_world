@@ -1,1 +1,3 @@
 "master" file line was added 30.05.2020
+"master" line was added 30.05.2020 from master branch
+This is new line
